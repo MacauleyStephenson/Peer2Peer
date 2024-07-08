@@ -1,5 +1,5 @@
 # Peer2Peer
-Peer2Peer is a Java powered software made for peer to peer network connection using Java, JavaFX, JavaX, SQLite, Jfoenix and I don't know what more!
+Peer2Peer is a Java powered software made for peer to peer network connection using Java, JavaFX, JavaX, SQLite & Jfoenix.
 
 ## Features
 
